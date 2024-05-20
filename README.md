@@ -1,5 +1,7 @@
 
 ## Hi, I am Irandi Silva 🖐️
+### Constantly seeking knowledge in the world of technology.
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/irandisilvaa_)
@@ -13,9 +15,7 @@
 
 ![haskell](https://img.shields.io/badge/Haskell-violet.svg?logo=data:<https://s4.aconvert.com/convert/p3r68-cdx67/as1ou-cgrbu.jpg)
 
-### Constantly seeking knowledge in the world of technology.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irandisilvaa&langs_count=8)
 
-![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Irandisilvaa&show_icons=true&theme=dark)
 
